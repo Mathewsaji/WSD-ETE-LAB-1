@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News app</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+    <h1>News Catalogue</h1>
+    <a href="form.html" id="reg">Register for daily news updates</a><br>
+    </header>
+    
+    <div id="controls">
+        <input type="text" id="search" placeholder="Search by title...">
+        <select id="sort">
+            <option value="title">Sort by Title</option>
+            <option value="author">Sort by Author</option>
+            <option value="date">Sort by Date</option>
+        </select>
+        <select id="filter">
+            <option value="">Filter by News type</option>
+            <option value="Classic">International</option>
+            <option value="Historical Fiction">Politics</option>
+            <option value="Dystopian">Daily news</option>
+        </select>
+    </div>
+
+    
+    <div id="book-container"></div>
+
+    
+    <div id="pagination-controls"></div>
+
+    
+    <div id="error-message" style="display:none;"></div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

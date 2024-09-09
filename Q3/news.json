@@ -1,0 +1,68 @@
+[
+    {
+      "id": "bbc-news",
+      "name": "BBC News",
+      "author": "Jane Smith",
+      "title": "Another Important Event",
+      "description": "Details about another important event happening around the world.",
+      "url": "https://www.bbc.com/news/world/2024/important-event",
+      "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+      "publishedAt": "2024-09-08T10:20:00Z",
+      "content": "This is the full article content for the important event happening globally."
+    },
+    {
+      "id": "cnn-news",
+      "name": "CNN News",
+      "author": "John Doe",
+      "title": "Breaking News: Global Event Unfolds",
+      "description": "Get the latest updates on the global event that's making headlines.",
+      "url": "https://www.cnn.com/news/world/2024/global-event",
+      "urlToImage": "https://cdn.cnn.com/news/images/global-event.jpg",
+      "publishedAt": "2024-09-08T11:00:00Z",
+      "content": "This is the full article content for the global event unfolding."
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "author": "Emily Chen",
+      "title": "Exclusive: Insider Reveals Shocking Truth",
+      "description": "Get the inside scoop on the latest scandal rocking the nation.",
+      "url": "https://www.foxnews.com/news/2024/exclusive-insider",
+      "urlToImage": "https://cdn.foxnews.com/news/images/exclusive-insider.jpg",
+      "publishedAt": "2024-09-08T12:00:00Z",
+      "content": "This is the full article content for the exclusive insider reveal."
+    },
+    {
+      "id": "nbc-news",
+      "name": "NBC News",
+      "author": "Michael Brown",
+      "title": "Investigation Uncovers Hidden Truth",
+      "description": "Our investigative team digs deep to uncover the truth behind the headlines.",
+      "url": "https://www.nbcnews.com/news/2024/investigation",
+      "urlToImage": "https://cdn.nbcnews.com/news/images/investigation.jpg",
+      "publishedAt": "2024-09-08T13:00:00Z",
+      "content": "This is the full article content for the investigation."
+    },
+    {
+      "id": "al-jazeera-news",
+      "name": "Al Jazeera News",
+      "author": "Ahmed Ali",
+      "title": "Middle East Tensions Escalate",
+      "description": "Get the latest updates on the escalating tensions in the Middle East.",
+      "url": "https://www.aljazeera.com/news/2024/middle-east-tensions",
+      "urlToImage": "https://cdn.aljazeera.com/news/images/middle-east-tensions.jpg",
+      "publishedAt": "2024-09-08T14:00:00Z",
+      "content": "This is the full article content for the Middle East tensions."
+    },
+    {
+      "id": "msnbc-news",
+      "name": "MSNBC News",
+      "author": "Rachel Maddow",
+      "title": "Breaking: New Evidence Emerges",
+      "description": "Get the latest updates on the breaking news that's making headlines.",
+      "url": "https://www.msnbc.com/news/2024/breaking-evidence",
+      "urlToImage": "https://cdn.msnbc.com/news/images/breaking-evidence.jpg",
+      "publishedAt": "2024-09-08T15:00:00Z",
+      "content": "This is the full article content for the breaking evidence."
+    }
+  ]
